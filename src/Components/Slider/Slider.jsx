@@ -5,7 +5,7 @@ import thirdPicture from "../../assets/image-product-3.jpg";
 import fourthPicture from "../../assets/image-product-4.jpg";
 import previousIcon from "../../assets/previousIcon.svg";
 import nextIcon from "../../assets/nextIcon.svg";
-import DesktopSlider from "../DesktopSLider/DesktopSlider";
+import DesktopSlider from "../DesktopSlider/DesktopSlider";
 
 function Slider() {
   const arrayofSneakers = [
